@@ -1,0 +1,7 @@
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\GetToKnowClassmates\bin\Debug\GetToKnowClassmates.exe.config
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\GetToKnowClassmates\bin\Debug\GetToKnowClassmates.exe
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\GetToKnowClassmates\bin\Debug\GetToKnowClassmates.pdb
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\GetToKnowClassmates\obj\Debug\GetToKnowClassmates.csprojAssemblyReference.cache
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\GetToKnowClassmates\obj\Debug\GetToKnowClassmates.csproj.CoreCompileInputs.cache
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\GetToKnowClassmates\obj\Debug\GetToKnowClassmates.exe
+C:\Users\achia\OneDrive\Desktop\LabsWeekTwo\GetToKnowClassmates\obj\Debug\GetToKnowClassmates.pdb
